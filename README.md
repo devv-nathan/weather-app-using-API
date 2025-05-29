@@ -3,7 +3,7 @@
 A personalized and redesigned weather app built using HTML, CSS, and JavaScript.  
 It features real-time weather data, dynamic visuals, and a modern user interface using glassmorphism.
 
-🚀 **[Live Website](YOUR_NETLIFY_LINK_HERE)** ← *(update after deploying)*
+🚀 **[Live Website](nathansweatherapp.netlify.app)** 
 
 ---
 
